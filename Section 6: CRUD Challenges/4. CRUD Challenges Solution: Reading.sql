@@ -1,4 +1,4 @@
-SOLUTION CODE
+--SOLUTION CODE
 SELECT article, color FROM shirts;
  
 SELECT * FROM shirts WHERE shirt_size='M';
