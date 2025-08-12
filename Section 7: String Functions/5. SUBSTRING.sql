@@ -11,7 +11,7 @@ SELECT SUBSTR(title, 1, 10) AS 'short title' FROM books;
 
 
 
-mysql> SELECT SUBSTRING('Hello World', 1, 4);
+mysql> SELECT SUBSTRING('Hello World', 1, 4);   --Starting from 1 and ending in 4
 +--------------------------------+
 | SUBSTRING('Hello World', 1, 4) |
 +--------------------------------+
